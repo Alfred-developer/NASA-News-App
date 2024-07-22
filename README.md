@@ -2,14 +2,14 @@
 <!-- HEADER -->
 <br />
 <p align="center">
- <a href="https://github.com/Deathmajorasmask/MarioRPG-OpenGL">
-    <img src="images/RPGMario.png" alt="Logo" width="80" height="130">
+ <a>
+    <img src="images/news.jpg" alt="Logo" width="80" height="130">
  </a>
 
-  <h3 align="center">MarioRPG-OpenGL</h3>
+  <h3 align="center">NASA News App</h3>
 
   <p align="center">
-    An awesome videogame / graphic motor created in OpenGL !
+    App with recent news from NASA !
     <br />
   </p>
 </p>
@@ -45,18 +45,11 @@
 
 [![Product Name Screen Shot][screenshot]](https://github.com/Deathmajorasmask/MarioRPG-OpenGL)
 
-It's a video game created in OpenGL inspired by Mario RPG that has a combat system, collisions, lights, obj exporter, among many other things. Developed in c++ and OpenGL.
+This is a mobile app created with react native in expo, it is an app that consumes an API which obtains the information on the most recent news from NASA, it has a main screen that shows the most important news and at the bottom a container with more news.
 
-The graphics engine can be used as the core for the creation of other video games or the development of this project itself. I would like to continue developing more levels and explore the possibilities of enviroment.
+By clicking on see more you can access a new screen where you will see the news with more detail and information.
 
-The possibilities with this base are endless, so I hope you can take the source code of this project as an example.
-
-### Built With
-
-This project uses some external libraries, I list them below:
-[GLEW](http://glew.sourceforge.net/)
-[GLFW](https://www.glfw.org/)
-[OpenGL](https://www.opengl.org)
+This is created through components and hooks to make the code a little more reusable and optimal.
 
 
 
@@ -121,9 +114,9 @@ Distributed under the MIT License. See LICENSE for more information.
 <!-- CONTACT -->
 ## Contact
 
-Deathmajorasmask - zijaham_link@hotmail.com
+anavarrolga@gmail.com
 
-Project Link: [https://github.com/Deathmajorasmask/MarioRPG-OpenGL](https://github.com/Deathmajorasmask/MarioRPG-OpenGL)
+[Project Link: [https://github.com/Deathmajorasmask/MarioRPG-OpenGL](https://github.com/Deathmajorasmask/MarioRPG-OpenGL)](https://github.com/Alfred-developer/NASA-News-App)
 
 
 
