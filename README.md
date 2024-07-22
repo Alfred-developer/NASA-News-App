@@ -3,7 +3,7 @@
 <br />
 <p align="center">
  <a>
-    <img src="images/news.jpg" alt="Logo" width="80" height="130">
+    <img src="assets/news.jpg" alt="Logo" width="80" height="130">
  </a>
 
   <h3 align="center">NASA News App</h3>
