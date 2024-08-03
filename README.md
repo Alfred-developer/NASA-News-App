@@ -76,6 +76,12 @@ $ npx expo start
 ```
 
 ## Screenshots
+<div>
+	<img src="assets/ScreenShot1.png" height="430px" width="200px" />
+	<img src="assets/ScreenShot2.png" height="430px" width="200px" />
+	<img src="assets/ScreenShot3.png" height="430px" width="200px" />
+	<img src="assets/ScreenShot4.png" height="430px" width="200px" />
+</div>
 
 <!-- LICENSE -->
 ## License
