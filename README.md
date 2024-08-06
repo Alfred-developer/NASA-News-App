@@ -10,15 +10,15 @@
 <p align="center"></p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/monorepo">
+  <img alt="GitHub top language" src="https://img.shields.io/badge/Expo-51.0.0-blue">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/eltonlazzarin/monorepo">
+  <img alt="GitHub language count" src="https://img.shields.io/badge/React%20Native-0.74.2-blue">
 
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eltonlazzarin/monorepo">
+  <img alt="GitHub last commit" src="https://img.shields.io/badge/Last%20Commite-03/08/24-orange">
 
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/monorepo">
+  <img alt="GitHub issues" src="https://img.shields.io/badge/Issues-0-yellow">
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/monorepo">
+  <img alt="GitHub" src="https://img.shields.io/badge/License-MIT-green">
 </p>
 
 <p align="center">
@@ -57,22 +57,26 @@ Main technologies that I used to develop this frontend app
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/)
 
-**Clone the project and access the folder**
-
+**1. Clone the project**
 ```bash
-$ git clone https://github.com/Alfred-developer/NASA-News-App.git
-
-$ cd nasa-news-app
+git clone https://github.com/Alfred-developer/NASA-News-App.git
 ```
 
-**Follow the steps below**
 
+**2. Access the folder**
 ```bash
-# Install the dependencies
-$ npm i
+cd nasa-news-app
+```
 
-# Run the web app
-$ npx expo start
+### Follow the steps below
+
+**3. Install the dependencies**
+```bash
+npm i
+```
+**4. Run the web app**
+```bash
+npx expo start
 ```
 
 ## Screenshots
