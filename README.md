@@ -1,6 +1,6 @@
 ﻿# NASA-News-App
 <h1 align="center">
-	<img alt="Logo" src="assets/news.jpg" height="150px" width="150px" />
+	<img alt="Logo" src="assets/news-report.png" height="150px" width="150px" />
 </h1>
 
 <h3 align="center">
